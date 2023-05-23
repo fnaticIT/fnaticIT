@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @fnaticIT
 
-- 👀 I’m interested in web development and programming
+- 👀 I’m interested in developing products and solutions.
 
-- 🌱 I’m currently learning ReactJs framework along with full stack development
+- 🌱 I’m experienced in working with MERN stack, React Native, Android, Flutter and other developemnt frameworks and technologies. Currently I am exploring machine   learning, AI in general and blockchain.
 
-- 💞️ I’m looking to collaborate on react and full stack web dev projects (prefered MERN stack)
+- 💞️ I’m looking to collaborate on any exciting ideas and always open to build products.
 
 - 📫 You can reach me via  - <br>linkedin - https://www.linkedin.com/in/naman-balai-10a1481bb/ <br>
                               mail - fnaticdeveloper@gmail.com <br>
