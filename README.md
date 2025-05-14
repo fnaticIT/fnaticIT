@@ -1,16 +1,13 @@
-- 👋 Hi, I’m @fnaticIT
+# 👋 Hi, I’m @fnaticIT (Naman Balai)
 
-- 👀 I’m interested in developing products and solutions.
+🚀 Applications Developer at Oracle | B.Tech CSE from NIT Warangal
 
-- 🌱 I’m experienced in working with MERN stack, React Native, Android, Flutter and other developemnt frameworks and technologies. Currently I am exploring machine   learning, AI in general and blockchain.
+🛠️ I build robust, scalable, and user-centric applications — from HR platforms at scale to full-stack web and mobile apps.
+Currently working with **Oracle ADF**, **JavaScript**, and **SQL**, and experienced with **MERN**, **React Native**, and system design.
 
-- 💞️ I’m looking to collaborate on any exciting ideas and always open to build products.
+🔍 I’m exploring the practical side of **AI**, **machine learning**, and **federated learning** — including real-world implementations like stress detection and behavior analysis.
 
-- 📫 You can reach me via  - <br>linkedin - https://www.linkedin.com/in/naman-balai-10a1481bb/ <br>
-                              mail - fnaticdeveloper@gmail.com <br>
-                              instagram - https://www.instagram.com/naman_balai06/ <br>
+💡 I enjoy working on projects that solve real problems — especially ones that involve human behavior, productivity, or collaboration.
 
-<!---
-fnaticIT/fnaticIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Let’s connect!  
+[LinkedIn](https://www.linkedin.com/in/naman-balai-10a1481bb/) | [Email](mailto:namanbalai06@gmail.com) | [Projects](https://github.com/fnaticIT?tab=repositories)
